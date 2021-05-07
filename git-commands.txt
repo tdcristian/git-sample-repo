@@ -12,12 +12,9 @@ git remote add origin <GitHub Repository URL> -> Establish connection with the r
 git push origin master -> push to master branch
 
 
-
-
-
-
-
-
+Scenario:1
+Scenario:2
+Scenario:3
 
 
 
@@ -34,3 +31,4 @@ privatebranch1
 	|
 	|
 privatebranch2
+
