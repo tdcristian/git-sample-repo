@@ -8,3 +8,5 @@ git add
 git commit -m ""
 git log
 git diff <filename>
+git remote add origin <GitHub Repository URL> -> Establish connection with the remote GitHub repo
+git push origin master -> push to master branch
