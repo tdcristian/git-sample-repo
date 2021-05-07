@@ -11,7 +11,24 @@ git diff <filename>
 git remote add origin <GitHub Repository URL> -> Establish connection with the remote GitHub repo
 git push origin master -> push to master branch
 
-Scenario1:
-Scenario2:
-Scenario3:
+
+Scenario:1
+Scenario:2
+Scenario:3
+
+
+
+
+
+privatebranch1
+    	|
+	|
+	|
+	|
+----master-------commit--------release-------master-------commit
+	|
+	|
+	|
+	|
+privatebranch2
 
